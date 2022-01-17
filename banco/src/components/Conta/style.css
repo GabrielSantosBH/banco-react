@@ -1,0 +1,31 @@
+.conta{
+    background-color: rgb(217, 223, 255);
+    width: 60%;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 1rem;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.247);
+
+}
+
+.conta__nome{
+    text-align: center;
+
+}
+.conta__cpf{
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
+.conta__saldo{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+em{
+    font-size: 1.3rem;
+    font-weight: 900;
+}

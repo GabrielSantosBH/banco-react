@@ -1,0 +1,15 @@
+.Rodape{
+    width: 100vw;
+    background-color: black;
+    color:white;
+    height: 87px;
+
+}
+.Rodape__site{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.Rodape__feitoPor{
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+.app{
+    min-height: 100vh ;
+}
+.principal{
+    height: calc(100vh -  180px  );
+}

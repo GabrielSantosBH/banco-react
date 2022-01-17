@@ -1,0 +1,10 @@
+.cabeçalho{
+    width: 100vw;
+    background-color: rgb(131, 150, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1.5px 3px 5px 0px rgba(0, 0, 0, 0.445) ;
+    height: 87px;
+
+}

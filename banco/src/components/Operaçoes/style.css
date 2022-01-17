@@ -1,0 +1,32 @@
+.operações{
+    width: 90%;
+    margin-bottom: 6px;
+}
+
+.operações__label{
+    font-size: 1.2rem;
+    margin-right: 4px ;
+
+
+}
+
+.operações__input{
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 1px;
+}
+
+.operações__input:active{
+    border: 1.5px solid rgb(172, 178, 255);
+}
+
+.operações__button{
+    background-color: rgb(210, 211, 255);
+    border: 1px solid black;
+    padding: 6px;
+    font-size: 1rem;
+}
+
+.operações__button:active{
+    background-color: rgb(255, 179, 179) ;
+}
